@@ -1,0 +1,14 @@
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\bin\Debug\net8.0\Godrocskek.exe
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\bin\Debug\net8.0\Godrocskek.deps.json
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\bin\Debug\net8.0\Godrocskek.runtimeconfig.json
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\bin\Debug\net8.0\Godrocskek.dll
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\bin\Debug\net8.0\Godrocskek.pdb
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.AssemblyInfoInputs.cache
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.AssemblyInfo.cs
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.csproj.CoreCompileInputs.cache
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.dll
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\refint\Godrocskek.dll
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.pdb
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\Godrocskek.genruntimeconfig.cache
+C:\Users\nagy.martin.mark\source\repos\Godrocskek\Godrocskek\obj\Debug\net8.0\ref\Godrocskek.dll
